@@ -532,5 +532,17 @@
     "romaji": "Sannin yoreba monju no chie",
     "english": "Three people together have the wisdom of Monju",
     "meaning": "Two heads are better than one"
-  }
+  },
+  {
+  "japanese": "虎穴に入らずんば虎子を得ず",
+  "romaji": "Koketsu ni irazunba koji wo ezu",
+  "english": "If you don't enter the tiger's den, you can't get the cub",
+  "meaning": "Nothing ventured, nothing gained"
+},
+  {
+  "japanese": "口は災いの元",
+  "romaji": "Kuchi wa wazawai no moto",
+  "english": "The mouth is the source of disaster",
+  "meaning": "Careless speech can cause trouble"
+}
 ]
